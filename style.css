@@ -25,10 +25,11 @@
         margin: 10px;
 }
 .main{
-        width: 800px;
+        width: 780px;
         background: #EADD97;
         border: 10px solid #E6D05C;
-        margin: auto;
+        margin-left: auto;
+        margin-right: auto;
 }
 .footer{
         text-align: center;
